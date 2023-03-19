@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Лиан\space\bullet.h(16,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\space\bullet.h(17,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\bullet.h(18,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\player.h(48,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\player.h(49,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\player.h(84,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Лиан\space\game.h(34,28): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\space\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  space139193401.vcxproj -> D:\Лиан\space139193401\x64\Debug\space139193401.exe
